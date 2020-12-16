@@ -53,6 +53,10 @@
         "colors": ["#F7F8F8", "#ACBB78"]
     },
     {
+        "name": "Tourism",
+        "colors": ["#DB001D", "#6FFF00"]
+    },
+    {
         "name": "Combi",
         "colors": ["#00416A", "#799F0C", "#FFE000"]
     },
